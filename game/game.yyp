@@ -305,6 +305,44 @@
             }
         },
         {
+            "Key": "d09d2398-dab9-424c-aa9c-7a19bfe2e9f8",
+            "Value": {
+                "id": "dc79561b-8add-4bb7-9f06-31738c297b99",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_solid\/s_solid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2493acb-a07e-4c6f-8d7c-fed9f4804620",
+            "Value": {
+                "id": "c714f6fd-8651-425b-8dcb-977adfbbed6d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_solid\/o_solid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e21e7186-dfe7-4886-ab9d-375ef5e14498",
             "Value": {
                 "id": "b2ade3fd-b895-4b17-be28-748dc41f5e27",
