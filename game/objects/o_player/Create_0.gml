@@ -6,6 +6,7 @@ GRAVITY = 1;
 ACCELERATION = .5;
 FRICTION = .25;
 JUMPHEIGHT = -8;
+DIRECTION = 1;
 
 // Key Mapping
 keyboard_set_map(ord("W"), vk_up);

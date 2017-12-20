@@ -5,6 +5,7 @@ var HINPUT = keyboard_check(vk_right) - keyboard_check(vk_left);
 if HINPUT != 0 {
 	HSPEED += HINPUT*ACCELERATION;
 	HSPEED = clamp(HSPEED, -MAXSPEED, MAXSPEED);
+	DIRECTION = HINPUT;
 } else {
 	HSPEED = lerp(HSPEED, 0, FRICTION);
 }
